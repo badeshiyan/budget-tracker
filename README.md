@@ -2,20 +2,25 @@
 
 ## Overview:
 
+For this assignment,
+
 ## Deployed Application Link
 
-Please find the deployed webpage link here: https://enigmatic-citadel-15539.herokuapp.com/
+Please find the deployed webpage link here:
 
 ## Video of Application User Flow
 
-![Adeshiyan Budget Tracker Gif](./public/assets/tracker.gif)
+![Adeshiyan Budget Tracker Gif](./public/assets/budget.gif)
 
 ## Screenshots of Generated Application
 
-![Adeshiyan Budget Tracker Screenshot](./public/assets/tracker1.png)
-![Adeshiyan Budget Tracker Screenshot](./public/assets/tracker2.png)
+![Adeshiyan Budget Tracker Screenshot](./public/assets/budget.png)
 
 ## Credits/Resources
+
+1. Instructor Jonathan Watson provided a detailed demo of the budget tracker set up and functionality.
+
+2. Heroku:
 
 ## MIT License
 
