@@ -2,7 +2,11 @@
 
 ## Overview:
 
-For this unit, we
+For this unit, we covered progressive web applications. Per MDN Web Docs, a progressive web app, or PWA, are web apps that use emerging web browser APIs and features along with traditional progressive enhancement strategy to bring a native app-like user experience to cross-platform web applications.
+
+For this assignment, we were to add offline functionality to a pre-existing budget tracker application. With the enhanced app, the user can now add expenses and deposits via the budget app with or without an internet connection. When the user enters a transaction offline, the total amount of the transaction(s) can now be made available when the user is back online.
+
+For more information regarding the aforementioned PWA, please see below. Thanks.
 
 ## Deployed Application Link
 
