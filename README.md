@@ -2,7 +2,7 @@
 
 ## Overview:
 
-For this assignment,
+For this unit, we
 
 ## Deployed Application Link
 
@@ -20,7 +20,13 @@ Please find the deployed webpage link here:
 
 1. Instructor Jonathan Watson provided a detailed demo of the budget tracker set up and functionality.
 
-2. Heroku:
+2. MongoDB Atlas: https://cloud.mongodb.com/
+
+3. Heroku: https://dashboard.heroku.com/apps
+
+4. IndexedDB API: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+
+5. Progressive Web Apps: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 
 ## MIT License
 
