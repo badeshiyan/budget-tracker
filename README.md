@@ -10,7 +10,7 @@ For more information regarding the aforementioned PWA, please see below. Thanks.
 
 ## Deployed Application Link
 
-Please find the deployed webpage link here:
+Please find the deployed webpage link here: https://guarded-crag-73571.herokuapp.com/
 
 ## Video of Application User Flow
 
