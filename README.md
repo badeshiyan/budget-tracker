@@ -16,7 +16,7 @@ Please find the deployed webpage link here: https://guarded-crag-73571.herokuapp
 
 ![Adeshiyan Budget Tracker Gif](./public/assets/budget.gif)
 
-## Screenshots of Generated Application
+## Screenshot of Generated Application
 
 ![Adeshiyan Budget Tracker Screenshot](./public/assets/budget.png)
 
